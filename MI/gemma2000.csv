@@ -1,0 +1,29 @@
+category,subcategories,description
+Flight Issues,Delays,"Tweets related to problems with flights, including delays, cancellations, and mechanical issues."
+Flight Issues,Cancellations,"Tweets related to problems with flights, including delays, cancellations, and mechanical issues."
+Flight Issues,Mechanical Problems,"Tweets related to problems with flights, including delays, cancellations, and mechanical issues."
+Flight Issues,Missed Connections,"Tweets related to problems with flights, including delays, cancellations, and mechanical issues."
+Baggage Issues,Lost Baggage,"Tweets concerning lost, damaged, or problematic baggage, including questions about baggage allowances."
+Baggage Issues,Damaged Baggage,"Tweets concerning lost, damaged, or problematic baggage, including questions about baggage allowances."
+Baggage Issues,Baggage Fees,"Tweets concerning lost, damaged, or problematic baggage, including questions about baggage allowances."
+Baggage Issues,Carry-on Restrictions,"Tweets concerning lost, damaged, or problematic baggage, including questions about baggage allowances."
+Customer Service,Poor Service,"Tweets expressing dissatisfaction with customer service experiences, including long wait times, unhelpful staff, and issues with loyalty programs."
+Customer Service,Long Wait Times,"Tweets expressing dissatisfaction with customer service experiences, including long wait times, unhelpful staff, and issues with loyalty programs."
+Customer Service,Unhelpful Staff,"Tweets expressing dissatisfaction with customer service experiences, including long wait times, unhelpful staff, and issues with loyalty programs."
+Customer Service,Lack of Communication,"Tweets expressing dissatisfaction with customer service experiences, including long wait times, unhelpful staff, and issues with loyalty programs."
+Customer Service,Reward Program Issues,"Tweets expressing dissatisfaction with customer service experiences, including long wait times, unhelpful staff, and issues with loyalty programs."
+Seating and Upgrades,Seat Changes,"Tweets related to problems with seating assignments, lost upgrades, or general discomfort on flights."
+Seating and Upgrades,Lost Upgrades,"Tweets related to problems with seating assignments, lost upgrades, or general discomfort on flights."
+Seating and Upgrades,Comfort Issues,"Tweets related to problems with seating assignments, lost upgrades, or general discomfort on flights."
+Airline Policies,Pet Policies,Tweets questioning or commenting on airline policies and regulations.
+Airline Policies,Carry-on Rules,Tweets questioning or commenting on airline policies and regulations.
+Airline Policies,Reward Program Devaluations,Tweets questioning or commenting on airline policies and regulations.
+Route Expansion,New Routes,Tweets requesting new routes or expressing concerns about limited route availability.
+Route Expansion,Route Availability,Tweets requesting new routes or expressing concerns about limited route availability.
+General Feedback,Positive Experiences,"General comments about airlines, including positive experiences, brand perception, appreciation for staff, and humorous observations."
+General Feedback,Brand Perception,"General comments about airlines, including positive experiences, brand perception, appreciation for staff, and humorous observations."
+General Feedback,Staff Appreciation,"General comments about airlines, including positive experiences, brand perception, appreciation for staff, and humorous observations."
+General Feedback,Humor,"General comments about airlines, including positive experiences, brand perception, appreciation for staff, and humorous observations."
+Technical Issues,Website Problems,"Tweets referring to technical glitches with airline websites, apps or booking systems"
+Technical Issues,App Issues,"Tweets referring to technical glitches with airline websites, apps or booking systems"
+Technical Issues,Booking Problems,"Tweets referring to technical glitches with airline websites, apps or booking systems"

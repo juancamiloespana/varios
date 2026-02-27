@@ -1,0 +1,21 @@
+category,subcategories,description
+Flight Issues,Delays,"Complaints related to flight delays, cancellations, missed connections, and lost baggage."
+Flight Issues,Cancellations,"Complaints related to flight delays, cancellations, missed connections, and lost baggage."
+Flight Issues,Missed Connections,"Complaints related to flight delays, cancellations, missed connections, and lost baggage."
+Flight Issues,Baggage Loss,"Complaints related to flight delays, cancellations, missed connections, and lost baggage."
+Customer Service,Long Hold Times,"Negative experiences with customer service representatives, including long wait times and unhelpful responses."
+Customer Service,Unhelpful Agents,"Negative experiences with customer service representatives, including long wait times and unhelpful responses."
+Customer Service,Poor Communication,"Negative experiences with customer service representatives, including long wait times and unhelpful responses."
+Airline Policies,Change Fees,Criticism of airline policies and fees.
+Airline Policies,Refunds,Criticism of airline policies and fees.
+Airline Policies,Baggage Fees,Criticism of airline policies and fees.
+Airline Policies,Frequent Flyer Programs,Criticism of airline policies and fees.
+General Feedback,Positive Experiences,"General comments and feedback about the airline, including positive experiences and suggestions for improvement."
+General Feedback,Suggestions,"General comments and feedback about the airline, including positive experiences and suggestions for improvement."
+General Feedback,Complaints,"General comments and feedback about the airline, including positive experiences and suggestions for improvement."
+Technical Issues,Website Problems,"Problems encountered with the airline's website, app, or reservation system."
+Technical Issues,App Errors,"Problems encountered with the airline's website, app, or reservation system."
+Technical Issues,Reservation System,"Problems encountered with the airline's website, app, or reservation system."
+Airport Experience,Ground Handling,"Comments about the airport experience, including ground handling, gate management, and terminal facilities."
+Airport Experience,Gate Management,"Comments about the airport experience, including ground handling, gate management, and terminal facilities."
+Airport Experience,Terminal Facilities,"Comments about the airport experience, including ground handling, gate management, and terminal facilities."

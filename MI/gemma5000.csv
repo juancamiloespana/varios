@@ -1,0 +1,12 @@
+category,subcategories,description
+Flight Disruptions,Delay,Tweets related to flight delays and cancellations impacting travel plans.
+Flight Disruptions,Cancellation,Tweets related to flight delays and cancellations impacting travel plans.
+Customer Service,Phone Support,"Tweets concerning issues with American Airlines' customer service, including difficulty reaching agents, lack of communication, and agent behavior."
+Customer Service,Lack of Communication,"Tweets concerning issues with American Airlines' customer service, including difficulty reaching agents, lack of communication, and agent behavior."
+Customer Service,Agent Rudeness,"Tweets concerning issues with American Airlines' customer service, including difficulty reaching agents, lack of communication, and agent behavior."
+Baggage,Delayed Baggage,"Tweets relating to problems with baggage, such as delays in receiving luggage."
+General Feedback,Positive Experience,"Tweets expressing overall opinions about American Airlines, including positive and negative experiences, and requests for assistance."
+General Feedback,Negative Experience,"Tweets expressing overall opinions about American Airlines, including positive and negative experiences, and requests for assistance."
+General Feedback,Requests,"Tweets expressing overall opinions about American Airlines, including positive and negative experiences, and requests for assistance."
+Airport Experience,Lack of Accommodation,"Tweets concerning experiences at airports, including requests for accommodation and feedback on dining options."
+Airport Experience,Dining Options,"Tweets concerning experiences at airports, including requests for accommodation and feedback on dining options."
